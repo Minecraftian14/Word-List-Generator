@@ -1,0 +1,16 @@
+names:
+-a
+-b
+-c
+-d
+-e
+
+suffixes:
+-1
+-2
+-3
+
+others:
+-x
+-y
+-z
